@@ -1,6 +1,5 @@
-# ActiveDirectory90DayExpReset
-This script for Active Directory will let you reset an account's expiration date to 90 days.
-As a Systems Administrator, for the purpose of account auditing, it's important to have accounts expiring at a maximum of 90 days, in the case of contractors and consultant accounts.
+# Active Directory 90-Day Expiration Reset
+As a Systems Administrator, for the purpose of account auditing, it's important to have accounts expiring at a maximum of 90 days, in the case of contractors and consultant accounts. This script for Active Directory will let you reset an account's expiration date to 90 days.
 
 ### Instructions
 
