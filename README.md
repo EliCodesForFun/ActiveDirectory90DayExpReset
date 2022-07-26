@@ -5,21 +5,16 @@ As a Systems Administrator, for the purpose of account auditing, it's important 
 ### Instructions
 
 
-Step 0
-Modify the script to include your server information for the $server variable.
+Step 0 - Modify the script to include your server information for the $server variable.
 
 
-Step 1 
-Run the PowerShell Script.
+Step 1 - Run the PowerShell Script.
 
 
-Step 2 
-Type in the account name (samaccountname) that you'd like to reset the expiration date to 90 days from today.
+Step 2 - Type in the account name (samaccountname) that you'd like to reset the expiration date to 90 days from today.
 
 
-Step 3 
-Type in Y to confirm or N (or any other character) to reject the change.
+Step 3 - Type in Y to confirm or N (or any other character) to reject the change.
 
 
-Step 4 
-Type in another account, or type "end" to terminate the script.
+Step 4 - Type in another account, or type "end" to terminate the script.
